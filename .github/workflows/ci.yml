@@ -1,5 +1,5 @@
 name: "CI"
-on: ["push", "pull_request"]
+on: ["push""]
 env:
   OTP_TAG: OTP-25.0.4
   OTP_SOURCE: https://github.com/erlang/otp
